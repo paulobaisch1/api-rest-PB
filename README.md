@@ -33,9 +33,7 @@ mvn spring-boot:run
 
  Estrutura Geral do Projeto
  
-css
-Copiar
-Editar
+
 src
 ├── main
 │   ├── java
