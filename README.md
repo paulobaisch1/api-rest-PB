@@ -32,6 +32,7 @@ mvn spring-boot:run
 
 
  Estrutura Geral do Projeto
+ 
 css
 Copiar
 Editar
@@ -48,6 +49,9 @@ src
 │   │       └── AtvApiApplication.java
 │   └── resources
 │       └── application.properties
+
+
+
 🧪 Testes usando Postman
 Os endpoints foram testados com o Postman. Exemplos de requisições:
 
